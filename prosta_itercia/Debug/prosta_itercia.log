@@ -1,0 +1,7 @@
+﻿  example001.cpp
+c1xx : warning C4199: двухэтапный поиск имен не поддерживается для C++/CLI, C++/CX или OpenMP. Используйте /Zc:twoPhase-
+d:\my_university 4.2\trspo\hella. laba 6\prosta_itercia\prosta_itercia\example001.cpp(7): warning C4005: NULL: изменение макроопределения
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.13.26128\include\vcruntime.h(220): note: см. предыдущее определение "NULL"
+d:\my_university 4.2\trspo\hella. laba 6\prosta_itercia\prosta_itercia\example001.cpp(44): warning C4101: gettimeofday: неиспользованная локальная переменная
+d:\my_university 4.2\trspo\hella. laba 6\prosta_itercia\prosta_itercia\example001.cpp(62): error C4700: использована неинициализированная локальная переменная "tv2"
+d:\my_university 4.2\trspo\hella. laba 6\prosta_itercia\prosta_itercia\example001.cpp(62): error C4700: использована неинициализированная локальная переменная "tv1"

@@ -1,0 +1,6 @@
+# Ignore files
+*.vs
+*.gitignore
+
+$ cat .gitignore
+$ cat */.vs
